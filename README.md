@@ -6,8 +6,8 @@ A app that keeps track of your to-do actions, you can add any number of tasks to
 # Creating a to-do list app with React is a fantastic project for building the skills.
 
 Setup React Project: Use Create React App project.
-npx create-react-app todo-app
-cd todo-app
+npx create-react-app todo-app,
+cd todo-app,
 Once the app is created, you can start editing the files in the src directory.
 Here's a basic structure of how you can implement your to-do list app:
 App.jsx
@@ -41,8 +41,11 @@ Design a simple and user interface using CSS or a UI library like Bootstrap.
 Test the app thoroughly to ensure all features work as expected.
 # Deployment:
 Deploy the app to a hosting service like Vercel to showcase it to others.
-Remember to break down the tasks into smaller, manageable them one at a time. 
+Remember to break down the tasks into smaller, manageable them one at a time.
 
+![Screenshot (291)](https://github.com/ShaikArshad1234/React-ToDoApp/assets/115883482/cbfc439d-55e1-437c-9282-d0d38a1317d7)
+![Screenshot (292)](https://github.com/ShaikArshad1234/React-ToDoApp/assets/115883482/a7795f19-aa11-426b-9cf1-7900b5a6a3e8)
+![Screenshot (293)](https://github.com/ShaikArshad1234/React-ToDoApp/assets/115883482/23bb736e-8d57-4bf9-8035-5e09377da937)
 
 # Getting Started with Create React App
 
