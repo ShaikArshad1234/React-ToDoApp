@@ -1,3 +1,43 @@
+                                          # ToDo App Actions
+# Task:
+A app that keeps track of your to-do actions, you can add any number of tasks to it, search those tasks, click on the checkbox to complete the task, and filter using buttons like active tasks, completed tasks and all the tasks. 
+A app that keeps track of your to-do actions, you can add any number of tasks to it, search those tasks, click on the checkbox to complete the task, and filter using buttons like active tasks, completed tasks and all the tasks. This is another great project for you to add to your portfolio as a beginner React developer design 
+
+# Creating a to-do list app with React is a fantastic project for building the skills.
+
+Setup React Project: Use Create React App project.
+
+# Component Structure:
+
+The app maintains state for tasks using the useState hook.
+The addTask function adds a new task to the list when the user clicks "Add Task".
+The toggleTask function toggles the completed status of a task when the checkbox is clicked.
+The deleteTask function removes a task from the list when the user clicks "Delete".
+Buttons allow filtering tasks based on whether they are active, completed, or to display all tasks.
+Added a state searchTerm to store the search term entered by the user.
+Added an input field to allow the user to search for tasks by typing in a search term.
+Implemented filtering based on both completion status and search term.
+Modified the filteredTasks array to include filtering based on the search term.
+Added an input field and buttons to filter tasks based on their completion status.
+
+# Statement:
+Use React state to manage the list of tasks.
+Each task object should have properties like ID, task name, and completion status.
+# Functionality:
+Add Task: Implement a form in the AddTask component to add new tasks to the list.
+Delete Task: Allow users to remove tasks from the list.
+Complete Task: Toggle the completion status of tasks when users click on a checkbox.
+Filter Tasks: Implement buttons to filter tasks by status (active, completed, all).
+
+# Styling:
+Design a simple and user interface using CSS or a UI library like Bootstrap.
+# Testing:
+Test the app thoroughly to ensure all features work as expected.
+# Deployment:
+Deploy the app to a hosting service like Vercel to showcase it to others.
+Remember to break down the tasks into smaller, manageable them one at a time. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
